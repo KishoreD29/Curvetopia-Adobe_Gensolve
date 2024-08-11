@@ -80,4 +80,6 @@ You can install these dependencies using `pip`:
 ```bash
 pip install numpy matplotlib scipy scikit-learn
 
+The speciality is the project doesn't use the neural network or diffusion models. It's completely depends mathematical and statistical analysis.
+
 
